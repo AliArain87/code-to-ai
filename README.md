@@ -33,9 +33,9 @@ Each week follows our rhythm: **Day 1 — Learn · Day 2 — Practice · Day 3 �
 
 | Day                   | Folder                                                   | What's inside                                        |
 | --------------------- | -------------------------------------------------------- | ---------------------------------------------------- |
-| Day 1 — Learn        | [`Week-01/Day-01`](https://claude.ai/chat/Week-01/Day-01) | First program,`print()`,`sep`/`end`, variables |
-| Day 2 — Practice     | [`Week-01/Day-02`](https://claude.ai/chat/Week-01/Day-02) | Practice lab + assignment                            |
-| Day 3 — Build & Ship | [`Week-01/Day-03`](https://claude.ai/chat/Week-01/Day-03) | Interactive Calculator project + README              |
+| Day 1 — Learn        | [`Week-01/Day-01`](https://github.com/AliArain87/code-to-ai/tree/main/Week-01/Day-01) | First program,`print()`,`sep`/`end`, variables |
+| Day 2 — Practice     | [`Week-01/Day-02`](https://github.com/AliArain87/code-to-ai/tree/main/Week-01/Day-02) | Practice lab + assignment                            |
+| Day 3 — Build & Ship | [`Week-01/Day-03`](https://github.com/AliArain87/code-to-ai/tree/main/Week-01/Day-03) | Interactive Calculator project + README              |
 
 ### Week 2 — Data Structures & Files
 
@@ -43,7 +43,7 @@ Each week follows our rhythm: **Day 1 — Learn · Day 2 — Practice · Day 3 �
 
 | Day                   | Folder                                                   | What's inside                                       |
 | --------------------- | -------------------------------------------------------- | --------------------------------------------------- |
-| Day 1 — Learn        | [`Week-02/Day-01`](https://claude.ai/chat/Week-02/Day-01) | Lists & Tuples — outline, practice lab, assignment |
+| Day 1 — Learn        | [`Week-02/Day-01`](https://github.com/AliArain87/code-to-ai/tree/main/Week-02/Day-01) | Lists & Tuples — outline, practice lab, assignment |
 | Day 2 — Practice     | 🔒*Unlocks after class*                                | Dictionaries & Sets                                 |
 | Day 3 — Build & Ship | 🔒*Unlocks after class*                                | Files & CSV — Expense Tracker project              |
 
