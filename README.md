@@ -44,7 +44,7 @@ Each week follows our rhythm: **Day 1 — Learn · Day 2 — Practice · Day 3 �
 | Day                   | Folder                                                   | What's inside                                       |
 | --------------------- | -------------------------------------------------------- | --------------------------------------------------- |
 | Day 1 — Learn        | [`Week-02/Day-01`](https://github.com/AliArain87/code-to-ai/tree/main/Week-02/Day-01) | Lists & Tuples — outline, practice lab, assignment |
-| Day 2 — Practice     | 🔒*Unlocks after class*                                | Dictionaries & Sets                                 |
+| Day 2 — Practice     | [`Week-02/Day-02`](https://github.com/AliArain87/code-to-ai/tree/main/Week-02/Day-02)                               | Dictionaries & Sets                                 |
 | Day 3 — Build & Ship | 🔒*Unlocks after class*                                | Files & CSV — Expense Tracker project              |
 
 > 🔒 = not uploaded yet. New folders appear here right after each class. Keep checking back! 🔔
