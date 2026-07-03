@@ -1,5 +1,7 @@
 # === Hold back unreleased classes (delete a line to release that class) ===
 Extra/
+Week-03/Day-02/
+Week-03/Day-03/
 
 # === Jupyter ===
 .ipynb_checkpoints/
