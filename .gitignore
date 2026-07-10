@@ -5,6 +5,10 @@ Extra/
 .ipynb_checkpoints/
 */.ipynb_checkpoints/
 
+Week-04/data
+Week-04/Day-02
+Week-04/Day-03
+
 # === Python ===
 __pycache__/
 *.py[cod]
